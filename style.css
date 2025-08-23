@@ -100,24 +100,3 @@ body {
 .input:active {
   background-color: #8f929e;
 }
-
-@media (max-width: 600px) {
-  .calcu {
-    width: 100%;
-    border-width: 6px;
-  }
-
-  .results {
-    height: 100%;
-  }
-
-  #display {
-    font-size: clamp(18px, 8vw, 28px);
-  }
-
-  .input {
-    font-size: clamp(14px, 6vw, 22px);
-  }
-
-
-}
