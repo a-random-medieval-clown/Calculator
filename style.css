@@ -108,7 +108,7 @@ body {
   }
 
   .results {
-    height: 15%;
+    height: 100%;
   }
 
   #display {
@@ -118,5 +118,6 @@ body {
   .input {
     font-size: clamp(14px, 6vw, 22px);
   }
+
 
 }
